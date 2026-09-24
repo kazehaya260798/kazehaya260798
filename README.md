@@ -32,5 +32,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 
+<img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" />
+
 
 ![	AI machine / Machine AI](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tkaTVwanF0a3BjbTQ0a2ZzNXNkdjVtb3djMHB5dWh4eThqaW1vaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)

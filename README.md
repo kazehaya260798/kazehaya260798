@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Hi ](img/github-header-banner.png)
+
 <!--
 **kazehaya260798/kazehaya260798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Ai Angineer
+- 💬 Ask me about ...
+
+![	AI machine / Machine AI](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tkaTVwanF0a3BjbTQ0a2ZzNXNkdjVtb3djMHB5dWh4eThqaW1vaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
